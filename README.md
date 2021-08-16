@@ -1,5 +1,5 @@
 # JsonApp
 
-# Using MVVM Design Pattern
-# Using Kotlin Coroutine
-# Using Retrofit
+Using MVVM Design Pattern
+Using Kotlin Coroutine
+Using Retrofit
